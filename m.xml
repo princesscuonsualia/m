@@ -42,6 +42,9 @@
             </value>
           </block>
         </value>
+        <statement name="DO1">
+          <block type="movement_left" id="319"></block>
+        </statement>
         <statement name="ELSE">
           <block type="movement_forward" id="265"></block>
         </statement>
